@@ -1,0 +1,10 @@
+.ff{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    flex-direction: column
+
+}
+.img{
+    text-align: center;
+}
